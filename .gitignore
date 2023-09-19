@@ -12,6 +12,5 @@ package-lock.json
 .idea
 .vscode
 
-node_modules/
-dist/*
+node_modules
 *.log
